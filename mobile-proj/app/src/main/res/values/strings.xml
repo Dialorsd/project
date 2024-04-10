@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">my-proj</string>
+    <string name="btn_login">Login</string>
+    <string name="text_main_page">Main page</string>
+    <string name="btn_dont_have_account">Dont have an account?</string>
+    <string name="btn_registration">Registration</string>
+    <string name="text_name">Your name</string>
+    <string name="text_surname">Your surname</string>
+    <string name="text_pass">Your password</string>
+    <string name="text_pass_confirm">Password repeat</string>
+    <string name="text_login">Your login</string>
+    <string name="text_email">Your email</string>
+    <string name="text_date">Your date</string>
+    <string name="text_registration">Registration</string>
+    <string name="text_menu">Menu</string>
+    <string name="btn_logout">Log out</string>
+    <string name="btn_projects">Projects</string>
+    <string name="btn_employees">Workers</string>
+    <string name="btn_return_to_menu">Return to menu</string>
+    <string name="btn_more">More</string>
+    <string name="btn_back">Back</string>
+    <string name="btn_profile">Profile</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_add_worker">Add worker</string>
+    <string name="btn_edit">Edit</string>
+    <string name="btn_save">Save</string>
+    <string name="popup_name">Name</string>
+    <string name="popup_position">Position</string>
+    <string name="popup_salary">Salary</string>
+
+</resources>

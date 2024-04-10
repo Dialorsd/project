@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">APP</string>
+    <string name="hint1">Enter Phone number</string>
+    <string name="hint2">Enter Password</string>
+    <string name="hint3">Enter Your Name</string>
+    <string name="hint4">Enter Your SurName</string>
+    <string name="hint5">Enter Your E-MAIL</string>
+    <string name="hint6">Enter Your Phone number</string>
+    <string name="hint7">Enter Confirm Password</string>
+
+</resources>
